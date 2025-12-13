@@ -6,6 +6,7 @@ namespace TalentTrack2.DTOs
         public int TotalUsers { get; set; }
         public int TotalEmployers { get; set; }
         public int TotalEmployees { get; set; }
+        //commented
         public int TotalAdmins { get; set; }
         public int TotalJobs { get; set; }
         public int ApprovedJobs { get; set; }
