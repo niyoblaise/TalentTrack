@@ -1,0 +1,41 @@
+# .NET Core
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.ncrunchsolution
+*.ncrunchproject
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+appsettings.Development.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Uploads
+TalentTrack2/uploads/
+
+# Build logs
+build_log.txt
+build_log_utf8.txt
